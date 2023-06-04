@@ -115,4 +115,4 @@ async def fallen_startup():
     )
 
 
-asyncio.get_event_loop().run_until_complete(vp_startup())
+asyncio.get_event_loop().run_until_complete(vpmusic_startup())
